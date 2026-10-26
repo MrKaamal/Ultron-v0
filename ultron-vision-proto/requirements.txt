@@ -1,0 +1,1 @@
+# Standard-library-only prototype scaffold (no external packages required)

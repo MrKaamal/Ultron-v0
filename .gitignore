@@ -1,0 +1,4 @@
+.ultron_memory.json
+__pycache__/
+*.py[cod]
+.venv/
